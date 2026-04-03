@@ -1,0 +1,46 @@
+
+╔══════════════════════════════════════════════════╗
+║     BUSINESS SALES PERFORMANCE ANALYTICS        ║
+║            EXECUTIVE SUMMARY                    ║
+╚══════════════════════════════════════════════════╝
+
+ KPI HIGHLIGHTS
+─────────────────
+  Total Revenue:    $2,297,200.86
+  Total Profit:     $286,397.02
+  Profit Margin:    12.47%
+  Total Orders:     5,009
+  Total Customers:  793
+
+ KEY INSIGHTS
+───────────────
+1. REVENUE TREND
+    Revenue grew 51% from $484K (2014) to $733K (2017)
+    Consistent Q4 seasonal peaks every year
+    January & February consistently weakest months
+
+2. CATEGORY PERFORMANCE
+    Technology leads: $836K revenue, $145K profit (17% margin)
+    Office Supplies: Strong 17% profit margin
+    Furniture WARNING: $742K revenue, only $18K profit (2.5% margin)
+
+3. REGIONAL PERFORMANCE
+    West leads: $725K revenue, $108K profit
+    Central: High revenue but low profit — excessive discounting
+    South: Lowest revenue at $392K — needs attention
+
+4. TOP PRODUCTS
+    Canon imageCLASS 2200 Copier — highest revenue at $60K+
+    Technology products dominate top 10 list
+
+5. PROFITABILITY
+    1,871 transactions recorded losses due to high discounts
+    Maximum discount of 80% is severely impacting profitability
+
+ RECOMMENDATIONS
+──────────────────
+1.  REDUCE FURNITURE DISCOUNTS — margin critically low at 2.5%
+2.  EXPAND TECHNOLOGY PRODUCTS — best profit margin at 17%
+3.  BOOST SOUTH REGION — launch targeted marketing campaign
+4.  LEVERAGE Q4 PEAKS — plan inventory ahead of Q4 season
+5.  FIX CENTRAL REGION — audit discount practices immediately
