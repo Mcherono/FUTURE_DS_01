@@ -82,4 +82,4 @@ Sample - Superstore.xlsx — a popular retail dataset with ~10,000 orders across
 ## Author
 
 **Mercy Cherono**
-GitHub: [github.com/mercycherono](https://github.com/mercycherono)
+
